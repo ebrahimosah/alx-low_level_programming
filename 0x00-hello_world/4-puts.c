@@ -5,7 +5,6 @@
 
 
 /**
- *
  * *main - Main function of my project
  *
  * *
@@ -19,6 +18,7 @@
 int main(void)
 
 {
+	/* main function */
 
 
 
