@@ -1,18 +1,21 @@
+#ifndef HEADER_FILE
+
+#define HEADER_FILE
+
 /**
- * *File:main.h
+ * File:main.h
  *
- * *Author:Pericles Adjovi
+ * Author:ibrahim osah
  *
- * *Desc:header file containing functions declaration
- *
- */
+ * Desc:header file containing functions declaration
+*/
 void print_alphabet(void);
 
 void jack_bauer(void);
 
 void print_alphabet_x10(void);
 
-void times_table();
+void times_table(void);
 
 void print_to_98(int);
 
@@ -31,3 +34,5 @@ int _abs(int);
 int add(int n, int m);
 
 int print_last_digit(int n);
+
+#endif
